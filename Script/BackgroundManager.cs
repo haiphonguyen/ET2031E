@@ -5,7 +5,7 @@ public class BackgroundManager : MonoBehaviour
 {
     public SpriteRenderer dayBackground;  // The day background sprite renderer
     public SpriteRenderer nightBackground; // The night background sprite renderer
-    public PipeSpawner pipeSpawner; // Reference to the PipeSpawner
+    public PipeSbawner pipeSpawner; // Reference to the PipeSpawner
     public int transitionScore = 15; // Score threshold for switching background
 
     private bool isNight = false; // Tracks if the current background is night
