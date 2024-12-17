@@ -984,22 +984,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7555848711958497925, guid: edbb2ecce503a4c4c866f6d1beaf9add, type: 3}
-      propertyPath: m_Size.x
-      value: 0.682708
-      objectReference: {fileID: 0}
-    - target: {fileID: 7555848711958497925, guid: edbb2ecce503a4c4c866f6d1beaf9add, type: 3}
-      propertyPath: m_Size.y
-      value: 0.35043266
-      objectReference: {fileID: 0}
-    - target: {fileID: 7555848711958497925, guid: edbb2ecce503a4c4c866f6d1beaf9add, type: 3}
-      propertyPath: m_Offset.x
-      value: 0.0030049235
-      objectReference: {fileID: 0}
-    - target: {fileID: 7555848711958497925, guid: edbb2ecce503a4c4c866f6d1beaf9add, type: 3}
-      propertyPath: m_Offset.y
-      value: -0.025357708
-      objectReference: {fileID: 0}
     - target: {fileID: 7916791337606263205, guid: edbb2ecce503a4c4c866f6d1beaf9add, type: 3}
       propertyPath: m_Name
       value: Bird
@@ -1821,7 +1805,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1392723333}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0ed68d69cf4cc164287e84a7e49a92d2, type: 3}
   m_Name: 
@@ -2915,7 +2899,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1155665165500977167, guid: 9e3d63637163c1448900f24b7b2d2408, type: 3}
       propertyPath: speed
-      value: 1
+      value: 0.7
       objectReference: {fileID: 0}
     - target: {fileID: 3474536658818770454, guid: 9e3d63637163c1448900f24b7b2d2408, type: 3}
       propertyPath: m_Size.x
