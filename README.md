@@ -1,4 +1,4 @@
-# Flappy Dino Game on Unity Game Engine
+# Flappy Dino Game on Unity
 
 ## General Information
 - **Coursework**: Part of ET2031E semester 2024.1
